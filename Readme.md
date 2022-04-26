@@ -1,4 +1,4 @@
-<h1 align="center"> :fleur_de_lis: Sistema de Login :fleur_de_lis: </h1>
+<h1 align="center">	:computer: Sistema de Login :electric_plug:	 </h1>
 
 ##	:dart: O que é ?
 É um sistema de Login(cadastro) simples feito
@@ -20,6 +20,10 @@ e clica em "SIGN UP".
  + Crie uma branch com a sua feature ```:git checkout -b minha-feature;```
  + Faça commit das suas alterações ```:git commit -m 'feat: Minha nova feature;```
  + Faça um push para a sua branch ```:git push origin minha-feature;```
+
+## Autor: 
+
+<h3 align="center"><i> :fleur_de_lis: Samuel Rodrigues :fleur_de_lis: </i></h3>
 
 
 
